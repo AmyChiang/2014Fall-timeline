@@ -1,0 +1,53 @@
+.container{
+	margin-top: 5%;
+}
+header{
+	background-image: url('http://media.webdesignviews.com/2012/13288/02_blurred_backgrounds.jpg') no-repeat center top;
+	width: 100%;
+	display: block;
+	max-width: 1200px;
+}
+h1{
+	font-size: 2.3em;
+}
+h2{
+	font-size: 1.8em;
+}
+.deliverables{
+	font-weight: 800;
+	font-size: 1.2em;
+}
+#timeline, #Midpoint{
+	margin-top: 5%;
+}
+#timeline ul:nth-child(2){
+	font-style: italic;
+	font-size: 0.8em;
+	line-height: .8em;
+	color: #bf491c;
+}
+#timeline tr:nth-child(1){
+	color: black;
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: 800;
+}
+#swot{
+	margin-top: 5%;
+}
+.module{
+	font-size: 1.1em;
+	line-height: 1.2em;
+
+}
+#midpoint a{
+	font-size: 1.2em;
+
+}
+.finished{
+	color: #aaaaaa;
+	/*text-decoration: line-through;*/
+}
+.not_finished{
+	color: red;
+}
